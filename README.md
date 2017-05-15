@@ -7,4 +7,4 @@
 
 #### By clicking on table headings the users on the table can be sorted by their points.
 
-### The app can be tested here: [Live Demo](#)
+### The app can be tested here: [Live Demo](https://alan2207.github.io/camper-leaderboard/)
